@@ -1,5 +1,8 @@
   .topnav {
     overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
     background: rgb(23,77,70);
     background: linear-gradient(150deg, rgba(23,77,70,1) 24%, rgba(14,161,142,1) 100%);
   }
